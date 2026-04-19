@@ -65,7 +65,7 @@ Designed and built a production-grade CI/CD pipeline with automated security gat
 
 I am actively seeking **internship** and **full-time opportunities** in cybersecurity, cloud security, and DevSecOps, as well as open-source collaborations. Feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrishikesh_Bywar-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/hrishikesh-bywar-17971026a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrishikesh_Bywar-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/hrishikesh-bywar)
 [![GitHub](https://img.shields.io/badge/GitHub-DK7705-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DK7705)
 
 ---
