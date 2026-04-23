@@ -25,7 +25,7 @@ Designed and built a production-grade CI/CD pipeline with automated security gat
 `Terraform` `HCL` `Docker` `CI/CD` `SAST` `SCA` `Security-as-Code`
 
 **Other notable projects:**
-- 🧭 **[Maze Walker](https://github.com/DK7705/Maze_walker)** — Interactive visualisation of BFS, DFS, and A\* pathfinding algorithms in the browser.
+- 🏛️ **[NyayaPramana](https://github.com/DK7705/NyayaPramana)** — A gamified platform for exploring Nyaya epistemology through interactive minigames, with role-based dashboards for students and teachers.
 
 ---
 
@@ -39,6 +39,13 @@ Designed and built a production-grade CI/CD pipeline with automated security gat
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Infrastructure & Tools**
 
