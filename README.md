@@ -1,37 +1,59 @@
-# Hrishikesh Bywar 👋
+# Hrishikesh Bywar
 
-> *Computer Science Student · Cybersecurity & Cloud Security · Secure Systems Engineer*
+> Computer Science Student | Full Stack Developer | DevOps & Cloud Enthusiast
 
-I approach software with a security-first mindset — designing systems that are resilient by architecture, not just by policy. My work spans threat modelling, secure CI/CD pipelines, and applied cryptography.
-
----
-
-## 🎯 Areas of Focus
-
-- 🔐 **Application & Pipeline Security** — automated vulnerability detection via SAST, SCA, and secrets scanning
-- ☁️ **Cloud Security** — hardening infrastructure across AWS, GCP, and Azure environments
-- 🐳 **Container Orchestration** — deploying and securing workloads with Docker and Kubernetes
-- 🐧 **Linux & Systems** — comfortable at the kernel level; scripting, automation, and low-level tooling
-- 🔬 **Applied Cryptography** — encryption, steganography, and secure data exchange protocols
+I enjoy building software that is fast, reliable, and easy to maintain. Most of my work revolves around full stack web development, backend engineering, cloud infrastructure, and automation. I also have a strong interest in security, so I naturally end up breaking my own projects before anyone else can.
 
 ---
 
-## 🛡️ Featured Project — [GateKeeper](https://github.com/DK7705/GateKeeper)
+## Featured Projects
 
-> A comprehensive DevSecOps platform implementing Security-as-Code across the full delivery lifecycle.
+### GateKeeper
 
-Designed and built a production-grade CI/CD pipeline with automated security gates — integrating SAST, SCA, and secrets detection to enforce secure-by-default delivery. Implements blue-green deployments for zero-downtime releases with full auditability.
+A full-stack DevSecOps platform that automates secure software delivery through an end-to-end CI/CD pipeline.
 
-`Terraform` `HCL` `Docker` `CI/CD` `SAST` `SCA` `Security-as-Code`
+Features include:
 
-**Other notable projects:**
-- 🏛️ **[NyayaPramana](https://github.com/DK7705/NyayaPramana)** — A gamified platform for exploring Nyaya epistemology through interactive minigames, with role-based dashboards for students and teachers.
+- Security scanning with SAST, SCA, and secret detection
+- Blue-Green deployments
+- Dockerized services
+- Infrastructure provisioning using Terraform
+- Automated deployment workflows
+- Security reports and audit logs
+
+**Tech Stack**
+
+`React` `Node.js` `Docker` `Terraform` `CI/CD` `GitHub Actions`
+
+Repository:
+https://github.com/DK7705/GateKeeper
 
 ---
 
-## 🛠️ Technical Skills
+### NyayaPramana
 
-**Languages**
+A full-stack educational platform that teaches Nyaya philosophy through interactive games.
+
+Features include:
+
+- Authentication and role-based access
+- Student and teacher dashboards
+- Interactive learning modules
+- Responsive frontend
+- Backend APIs for user and game management
+
+**Tech Stack**
+
+`React` `Node.js` `SQLite`
+
+Repository:
+https://github.com/DK7705/NyayaPramana
+
+---
+
+## Technical Skills
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,14 +62,14 @@ Designed and built a production-grade CI/CD pipeline with automated security gat
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Web & Backend**
+### Frameworks & Technologies
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Infrastructure & Tools**
+### DevOps & Cloud
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,35 +80,24 @@ Designed and built a production-grade CI/CD pipeline with automated security gat
 
 ---
 
-## 📊 GitHub Activity
+## Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DK7705&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DK7705&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</p>
-
----
-
-## 📬 Get in Touch
-
-I am actively seeking **internship** and **full-time opportunities** in cybersecurity, cloud security, and DevSecOps, as well as open-source collaborations. Feel free to reach out.
-
-<p align="center">
-  <a href="https://linkedin.com/in/hrishikesh-bywar">
-    <img src="https://img.shields.io/badge/LinkedIn-Hrishikesh%20Bywar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/DK7705">
-    <img src="https://img.shields.io/badge/GitHub-DK7705-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+- Backend system design
+- Distributed systems
+- Cloud-native applications
+- Kubernetes
+- Performance optimization
+- Open Source
 
 ---
 
-> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*  
-> — Gene Spafford
+## Get in Touch
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DK7705&style=for-the-badge&color=58a6ff" alt="Profile views"/>
-</p>
+I'm currently looking for internships and full-time opportunities in Software Engineering, Full Stack Development, Backend Development, and Cloud Engineering.
+
+LinkedIn:
+www.linkedin.com/in/hrishikesh-bywar-17971026a
+
+GitHub:
+https://github.com/DK7705
+
