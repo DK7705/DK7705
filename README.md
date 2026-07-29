@@ -4,45 +4,6 @@ Computer Science student interested in full stack development, backend engineeri
 
 I enjoy building software that is reliable, maintainable, and secure. I'm currently looking for internships and full-time opportunities in Software Engineering, Backend Development, Full Stack Development, and Cloud Engineering.
 
-## Projects
-
-### GateKeeper
-
-GateKeeper is a full-stack DevSecOps platform for automating secure software delivery through an end-to-end CI/CD pipeline.
-
-Features:
-
-* Security scanning (SAST, SCA, and secret detection)
-* Blue-Green deployments
-* Dockerized services
-* Infrastructure provisioning with Terraform
-* Automated deployment workflows
-* Security reports and audit logs
-
-**Tech Stack:** React, Node.js, Docker, Terraform, GitHub Actions
-
-Repository: https://github.com/DK7705/GateKeeper
-
----
-
-### NyayaPramana
-
-NyayaPramana is a full-stack educational platform for learning Nyaya philosophy through interactive games.
-
-Features:
-
-* Authentication and role-based access
-* Student and teacher dashboards
-* Interactive learning modules
-* Responsive frontend
-* Backend APIs for user and game management
-
-**Tech Stack:** React, Node.js, SQLite
-
-Repository: https://github.com/DK7705/NyayaPramana
-
-## Technical Skills
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
