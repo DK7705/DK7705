@@ -1,4 +1,3 @@
-# Hi, I'm Hrishikesh Bywar
 
 Computer Science student interested in full stack development, backend engineering, DevOps, cloud infrastructure, and security.
 
